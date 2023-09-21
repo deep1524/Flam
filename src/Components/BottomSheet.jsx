@@ -10,7 +10,7 @@ const BottomSheet = ({ height, onClose }) => {
       
       <div className="contentdiv">
         
-        <h2>Bottom Sheet Content</h2>
+        <h2 >Bottom Sheet Content</h2>
         <p>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vel
           sapien nec odio scelerisque iaculis.
