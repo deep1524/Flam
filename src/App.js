@@ -1,14 +1,13 @@
 
+
 import "./App.css";
 
-import Card from "./Components/card";
-
+import BottomSheet from './Components/Bottom_Sheet';
 
 function App() {
   return (
     <div className="App">
-      <Card />
-     
+     <BottomSheet/>
     </div>
   );
 }
