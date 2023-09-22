@@ -1,34 +1,24 @@
-React-spring-bottom-sheet(Without using pakage)
+
+# Flam Assignment  React Spring Bottom Sheet(with out packege)
+
+**Introduction**
+---
 Welcome to the React-spring-bottom-sheet This web application allows you to drag and drop the bottom sheet to it nearest position
 
-Table of Contents
-About
-Getting Started
-Usage
-Technologies Used
-Deployment
-About
-This web application allows you to drag and drop the bottom sheet to it nearest position.
-
-Deployment
-Deployed Link:-https://serene-flan-3e6950.netlify.app/
-
-Getting Started
+🚀 Getting Started
 Clone the repository
-git clone https://github.com/deep1524/Flam
+Install dependencies with npm install
+Run the development server with npm run dev
+Navigate to http://localhost:3000 in your web browser
+For Server npm run server
 
+## Demo
 
-Install dependencies
-npm install
+https://serene-flan-3e6950.netlify.app/
 
-Start the development server
-npm run start
-
-Technologies Used
--React-spring-bottom-sheet is built using the following technologies:
-
+##  Tech-stack used
+  
+   ```
 React.js
 CSS
 JavaScript
-Usage
-Visit the application in your web browser at http://localhost:3000 
