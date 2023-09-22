@@ -8,9 +8,9 @@ Welcome to the React-spring-bottom-sheet This web application allows you to drag
 🚀 Getting Started
 Clone the repository
 Install dependencies with npm install
-Run the development server with npm run dev
+Run the development server with npm run start
 Navigate to http://localhost:3000 in your web browser
-For Server npm run server
+
 
 ## Demo
 
